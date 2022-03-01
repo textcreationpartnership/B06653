@@ -1,0 +1,1212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact relation of the late prodigious earthquake &amp; eruption of Mount Ætna, or, Monte-Gibello as it came in a letter written to His Majesty from Naples by the right Honorable the Earle of Winchilsea ... : together with a more particular narrative of the same, as it is collected out of severall relations sent from Catania / published by authority.</title>
+            <author>Winchilsea, Heneage Finch, Earl of, d. 1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06653</idno>
+            <idno type="STC">Wing W2970A</idno>
+            <idno type="STC">ESTC R224075</idno>
+            <idno type="EEBO-CITATION">49521035</idno>
+            <idno type="OCLC">ocm 49521035</idno>
+            <idno type="VID">174252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174252)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2679:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact relation of the late prodigious earthquake &amp; eruption of Mount Ætna, or, Monte-Gibello as it came in a letter written to His Majesty from Naples by the right Honorable the Earle of Winchilsea ... : together with a more particular narrative of the same, as it is collected out of severall relations sent from Catania / published by authority.</title>
+                  <author>Winchilsea, Heneage Finch, Earl of, d. 1689.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by Benjamin Tooke ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Reproduction of original in: Wellcome Institute for the History of Medicine. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  Italy --  Sicily.</term>
+               <term>Volcanoes --  Italy --  Sicily.</term>
+               <term>Etna, Mount (Italy) --  Eruption, 1669.</term>
+               <term>Catania (Sicily) --  Earthquake, 1669.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174252:1"/>
+            <pb facs="tcp:174252:1"/>
+            <p>A True and Exact RELATION of the late Prodigious Earth-quake and Eruption of MOUNT-ÆTNA, <hi>or</hi> MONTE-GIBELLO</p>
+            <p>As it came in a Letter written to His Majeſty from <hi>Naples</hi> by the Right Honourable the Earl of <hi>Winchilſea,</hi> His Majeſties late Ambaſ<g ref="char:EOLhyphen"/>ſdor at <hi>Conſtantinople,</hi> who in his Return from thence viſiting <hi>Catania</hi> in the Iſland of <hi>Sicily</hi> was an Eye-witneſs of that Dreadfull Spect<g ref="char:EOLhyphen"/>acle.</p>
+            <p>Together with more particular Narrative of the ſame as it is Collected out of ſeveral Relations ſent from <hi>Catania.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>Dublin</hi> Printed, by <hi>Benjamin T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Printer to the Kings moſt Excellent Majeſty, and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to be ſold by <hi>Samuel Dancer,</hi> Book-ſeller in Caſtle-ſtreet 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174252:2"/>
+            <pb n="3" facs="tcp:174252:2"/>
+            <head>A true and Exact Relation of the late Prodigious Earthquake and Eruption of <hi>Mount-Ætna,</hi> or <hi>Monte-Gibello,</hi> as it came in a Letter written to His Majeſty from <hi>Naples</hi> by the Right Honoura<g ref="char:EOLhyphen"/>ble the Earl of <hi>Winchelſea,</hi> His Majeſties late Ambaſſador at <hi>Conſtantinople,</hi> who in his Re<g ref="char:EOLhyphen"/>turn from thence viſiting <hi>Catania</hi> in the Iſland of <hi>Sicily</hi> was an Ey-witneſs of that Dreadfull Spectacle. Together with a more particular Narrative of the ſame as it is Collected out of ſeveral Relations ſent from <hi>Catania.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Majeſty.</salute>
+            </opener>
+            <p>
+               <hi>IN</hi> my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yage from <hi>Malta</hi> to this place wherein I have uſed all the diligence the Seaſon hath given me leave, I touched at the City of <hi>Catania</hi> in <hi>Sicily,</hi> and was there moſt kindly invited by the Bi<g ref="char:EOLhyphen"/>ſhop to ledge in his Palace, which I accepted, that ſo I might be the better able to inform Your Majeſty of that Extraordinary Fire, which comes from <hi>Mount-Gibello 15</hi> miles diſtant from that City; which for it's horridneſs in the Aſpect, f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt quantity thereof, (for it is <hi>15</hi> miles in length and <hi>7</hi> in breadth) f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r it's Mon<g ref="char:EOLhyphen"/>ſtrous Devaſtation, and quick progreſs, may be termed an Inundation of Fire, a Floud <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Fire, Cinders and burning-ſtones, burning with
+<pb n="4" facs="tcp:174252:3"/>that Le<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as to advance into the Sea <hi>600</hi> yards and that to a mile in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> And that which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sea <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Moment in ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or other, cauſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng a great and horrible <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſing in the Sea; And thus more and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after it, making a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation in the Sea it ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f. I ſtayed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from nine a cleck in <hi>Saturday</hi> morning, to S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n was m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ning, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untain of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad ad<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ced into <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>20</hi> yards at leaſt in ſeveral places; in the middle of this fire, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> burned in the Sea, is hath formed a paſſage like to a River, with it's Banks on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſide <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cryſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, and in this Channel <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the greateſt quantity of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which is the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt liquid, with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ſame comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nders all red hot, ſwimming upon the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a great wa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tude; from this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of fire d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h proceed under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which are generally three fatham high all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untrey, where it burnt and in other places much more, there <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Ritul<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of this liquid matter, which communi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and beat into all parts m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re or leſs, and m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by fit in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver and over <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, where it meets with Ricks or H<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of the ſome matter (as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are) they melt and go away with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fire, when they find other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ns, they turn th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m to L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es (as I am informed) The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of this fire, ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nders, are Sulphur, Nitre, Quick-<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or, So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-A<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>, Lead, I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſs, and all other Metals. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> motes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> regularly, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fia<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; in ſome places is hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Valley's, Hill, and the Hilis that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not high are now ral<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it was u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght I went u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n two T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers in divers places, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as we judged, the fire to be<g ref="char:EOLhyphen"/>gin to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>un from the Mountain i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lion, the flame to aſcend as high and as big as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o of the higheſt and greateſt Steeples in Your Majeſties <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up great ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes into the Air<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; I could ſee the River of f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re deſcending <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mountain of a terrible fiery or red <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur, and ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes of a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r red, to ſwim th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n, and to be, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me as big as an ordinary Table. We could ſee this f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to more in ſeveral
+<pb n="5" facs="tcp:174252:3"/>other places, and all the Countrey c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ered with f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, aſcending with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lames in many places, ſmoking l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke to a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent furnace of I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the great pieces that f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, eſpecially th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe which fe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Sea. A Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ta,</hi> who lives there, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the River was as liquid where is Iſſues out of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent with great v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deep, and as b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ad, and that no ſtones do ſink therein. I aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure Your Majeſty <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preſs how terrible it is, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Art and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the world <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or divert that which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> burning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntrey. In <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dayes time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath deſtr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the habitation<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſeur made two bills <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, <hi>1000</hi> pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>b a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es in c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſs, as your Majeſty will ſee by the dra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ale the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſend Berewith; It was the beſt I could <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et, but hath nothing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>greſs into the Sea, the confuſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great in the City, which is almoſt ſurrounded with mountains of fire, that I c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld not get any to draw one, but I have taken care to hate one ſent after me f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Majeſty: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>10000</hi> perſons which inhabited <hi>Catania 3000</hi> did onely R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>main, all their Goods are carried away, the <hi>Cannons</hi> of Braſs are removed out of the <hi>Caſtle,</hi> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me great Bells taken d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn, the <hi>City</hi> Gates walled up next the fire, and pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>paration made all to aband<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the <hi>City.</hi>
+            </p>
+            <p>That night which I lay there, it rain'd Aſhes all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver the <hi>City,</hi> and ten miles at Sea it t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubled my eyes, this fire in it's pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>greſs met with a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r miles in c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mfaſs, and it was not onely ſatisfied to fill it up though it was four fath m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but hath made of it a mountain.</p>
+            <p>I ſend alſo to Y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Sacred Majeſty a Relation in Print which the Biſhop gave me, wherein the beginning is Related, and ſeveral curious paſſages. I moſt humbly beſeech Your pardon for the hindering Your Majeſty ſo long from Your better Imployments; And I beſeech you Great Sir ever to believe I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Revencece Your Perſon above all Expreſſi<g ref="char:EOLhyphen"/>ons, for I am,</p>
+            <closer>
+               <dateline>Naples <date>
+                     <hi>the 27th</hi> of Aprill <hi>7</hi> of <hi>May, 1669.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your Majeſties moſt obe<g ref="char:EOLhyphen"/>dient, moſt humble and moſt faithfull Subject and Servant.</hi> Win h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ea.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:174252:4"/>
+            <head>A particular Narrative of the late dreadful Earthquake and Eruption, as it is col<g ref="char:EOLhyphen"/>lected out of ſeveral Relations from <hi>Ca<g ref="char:EOLhyphen"/>tania.</hi>
+            </head>
+            <p>
+               <hi>MOunt-Ætna,</hi> or <hi>Monte Gibello,</hi> a Movntain ſo renowned throughout the world for its height and greatneſs, but much more for thoſe prodi<g ref="char:EOLhyphen"/>gious Flames, Smoak and Aſhes, which it hath caſt out from the top of it, whilſt the other parts are continually (even in the midſt of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ummer) covered with Snow, has been for many Ages ob<g ref="char:EOLhyphen"/>ſerved once, or ſometimes oftner, in the ſpace of about fifteen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to throw up more than ordinary flames, with much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak and ſtones, and great quantity of aſhes; which (though terrible to the neighbouring Towns and Villages) was yet wont <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little time to abate of its fury, and prove but ſeldom more <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rous to the Countrey near it, than by communicating largely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhes, which though for the preſent it did ſomewhat incom<g ref="char:EOLhyphen"/>modate them, they had afterwards a conſiderable compenſation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the product of their Lands, which by this means were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<g ref="char:EOLhyphen"/>dred more fruitful.</p>
+            <p>But on Friday the 18th of <hi>March,</hi> 1669. the Sun was obſerved before its ſetting to appear of a pale and dead colour, which (be<g ref="char:EOLhyphen"/>ing contrary to what it ever before appeared to us) ſtruck no ſmall terrour into the Inhabitannts, all objects appearing alſo of
+<pb n="7" facs="tcp:174252:4"/>the ſame colour, with a palneſs received from that of the Sun. The ſame night happened in this City, as well as the whole Coun<g ref="char:EOLhyphen"/>trey here abouts, a terrible and unuſual Earthquake, whoſe ſtrong and unequal motions, joyned with horrible roaring from <hi>Monte Gibello,</hi> exceedingly frighted the Inhabitants, but was ſo extraordinary violent in the Country adjacent, that the people were forced to abandon their Houſes, and to fly into the Fields to avoid the danger threatned them from the falling of their Houſes. The Village of <hi>Nacoloſi</hi> was of all others the moſt dread<g ref="char:EOLhyphen"/>fully handled by this furious Earthquake, the Houſes and other Buildings being ſhaken all in pieces, and buried in their own ruines; the poor people (who had preſerved their lives by a time<g ref="char:EOLhyphen"/>ly flight, with ſuch little of their Goods as their haſty fears would permit them to carry out with them) continued a night or two in the Fields, beholding with grief and aſtoniſhment the ruine of their habitations. But obſerving that by theſe violent concuſſi<g ref="char:EOLhyphen"/>ons the earth begun to open in ſeveral places, and to threaten them with inevitable ruine, they fled, though with much trouble and amazement to this City. Theſe ſhakings of the Earth being ſo frequent and violent, that the people went reeling and ſtag<g ref="char:EOLhyphen"/>gering, with much difficulty ſupporting one another from falling, inſomuch as what with their want of ſleep, the pains they were forced to take in travelling, and the great Terrors imprinted on them by what they have ſeen and ſuffered, they appeared at their arrival in this Citty, as ſo many diſtracted people, wholly inſen<g ref="char:EOLhyphen"/>ſible of what they did.</p>
+            <p>The dreadful convulſion of the Earth was immediatly followed on Monday <hi>March</hi> 11th about ten at night, by three terrible erup<g ref="char:EOLhyphen"/>tions much about the ſame time, and at a little diſtance one from the other.</p>
+            <p>The ſaid Eruptions was obſerved there on the ſide of <hi>Monte Gibello,</hi> about two miles beyond the Mountain, called <hi>Montpile<g ref="char:EOLhyphen"/>ri,</hi> with a terrible noiſe it threw its flames with much fury and violence about a hundred yards in height, its noiſe not roaring only inwardly from the belly of the Mountain as before, but violently cracking like peals of Ordnance or Thunder, from the ſide of it throwing out vaſt Stones, ſome of them three hundred
+<pb n="8" facs="tcp:174252:5"/>pound weight, which being as it were ſhot through the air, f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſseveral miles diſtant from the place, whilſt the whole air was fil<g ref="char:EOLhyphen"/>led with Smoak, burning Cinders, and Aſhes which fell like a flie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Rain upon the Country.</p>
+            <p>In the mean time iſſued from the ſide of this prodigious Moun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> a vaſt torrent of melting and burning matter, which like an <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>dation drowned, as in a flood of fire, the Country on this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of it.</p>
+            <p>This burning River ran down upon the Mountain <hi>Monpileri,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich, oppoſing us direct courſe, it divided it ſelf into two <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ams, which encompaſſed the ſaid Mountain, one of them ta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g its way by <hi>La-Guardia,</hi> the Convent of St. Anne, and Mal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>; the other by the Towns of <hi>Monpileri</hi> and <hi>Falicchi,</hi> which in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs were wholly deſtroyed and loſt, not ſo much as any ſign <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem remaining, with ſeveral leſſer Villages and Farms, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them the famous Image of the bleſſed Lady of the <hi>Annuncia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> which though highly reverenced throughout the whole <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>land, eſteemed the wonder of <hi>Sicily</hi> and the whole world, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which the people with much devotion reſorted in pilgrimage <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the remoteſt parts, was alſo ſwallowed and conſumed by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dreadful Torrent.</p>
+            <p>This fiery and burning Deluge immediatly ſpread it ſelf to a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſix mile in breadth, ſeeming to be ſomewhat of the colour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elted and burning Glaſſe, but as it cools, becomes hard <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocky, and every where in its paſſage leaves, Hills and Pyra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s of that matter behind it.</p>
+            <p>At the ſame time <hi>monte Gibell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> from it's top raged with dread<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lames, which with its noiſe and concuſions of the Earth ſtill <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tinuing, added not a little to the terror of the People, who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es and lamentations about the City and Country, en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ting nothing but to be ſwallowed or conſumed by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire, having <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other apprehenſions but of of death and a general conflagra<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The two torrents of Fire came forward, deſtroying all things in their way, and by Wedneſday, <hi>march</hi> 13th, had one the Weſt ſide branched it ſelf into ſeveral ſtreams, and over-ran <hi>Cam<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> St. <hi>Pie<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>torbianc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> with La <hi>Potielli</hi> and St. <hi>Antoni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>:</hi>
+               <pb n="9" facs="tcp:174252:5"/>And on the Eaſt-part ruine<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the lower pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <hi>Le Placchi,</hi> taking its way towards this City.</p>
+            <p>On Thurſday the 14th the wind came Eaſt-wards, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> day fell abundance of Rain, which abated not the prog<gap reason="illegible" resp="#UOM" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> the Fire, which on the Eaſt-ſide had from <hi>Maſcaluc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way to St. <hi>Giovanni di Galermo,</hi> the lower part whereof is de<g ref="char:EOLhyphen"/>ſtroyed, and paſſing on ſeemed to threaten this City on the o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſide, as did that on the Weſt-ſide the other.</p>
+            <p>As the Fire approached, the religious every where appeared with much devotion, carrying in proceſſion their Reliques, eſpe<g ref="char:EOLhyphen"/>cially thoſe of St. <hi>Agatha,</hi> the famous martyr of <hi>Catania</hi> in which they repoſed no ſmall confidence, followed by great multiutdes of people, ſome of them mortifying themſelves with Whips and other ſigns of penance, with great complaints and cryes, expreſſing their dreadful expectation of the events of thoſe prodigious fiery inundations.</p>
+            <p>Whilſt the people were thus buſied in their devotions, and aſtoniſht by their fears, news was brought to the magiſtrates of the City, that a conſiderable number of Thieves and Robbers had taken the opportunity of this general diſtraction to make a prey of the already diſtreſſed people, and that they had murther<g ref="char:EOLhyphen"/>ed ſeveral of them for their goods, and that it was to be feared that the City of <hi>Catania</hi> it ſelf might run ſome danger from the great numbers of them which were about the Country, and from thence took their opportunities to get into the Town; where<g ref="char:EOLhyphen"/>upon conſultation being had for the prevention of farther miſ<g ref="char:EOLhyphen"/>chief from them, the Commander of the Caſtle was ordered with a conſiderable number of Horſe and party of Spaniards to ſe<g ref="char:EOLhyphen"/>cure the Country and City againſt thoſe Robbers, who immedi<g ref="char:EOLhyphen"/>atly ſent out ſeveral parties with his Provoſt Marſhal, with order to ſeize on all ſuſpected perſons, and ſuch as were not able to give a good account of themſelves<g ref="char:punc">▪</g> and for ſuch as were taken in the fact robbing, to execute them by martial law, without any farther tryal, and accordingly cauſed three pair of Gallows to be ſet up up for their ſpeedy execution, one before the Gate, <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> a ſecond in the market-place, and a third before the Gate <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cima,</hi> ſetting ſtrong Guards before the Gates of the City, and
+<pb n="10" facs="tcp:174252:6"/>cauſing all ſuſpected houſes to be ſearched, an account to be given <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of all Lodgers, and ſuch perſons to be ſecured as could any <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all under a ſuſpicion.</p>
+            <p>The poor people out of the Country being by this prodigious <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtript out of all then eſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and reduced to great ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mity, fled moſt of them for refuge and relief to this City, with <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lamentation, moving the charity of the magiſtrate, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> readily inclined to give them the beſt aſſiſtance they were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and the Citize<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, moved by their complaints and ſufferings, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> opened their doors, filling their houſes with as many of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſtreſſed people as they could poſſibly receive, the Biſhop <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all perſons of quality and eſtate contributing largely for their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>port, till better order could be taken for the diſpoſing of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em.</p>
+            <p>The City of <hi>Meſſina</hi> alſo, and ſeveral other Cities informed of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> extrao<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinary calamity, ſent hither large ſupplies of provaſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffering their beſt aſſiſtance to thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place in caſe of extremity.</p>
+            <p>All the Elements ſeemed at this time to make war againſt us, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to conſpire together for the puniſhment of the Inhabitants, the Air was c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntinua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly dark<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with clouds and ſmoak agitated <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great and violent winds, and oftentimes ſhowred down great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inſomuch as the Sun f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the beginning of theſe erupti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> very ſeldom appeared to us, and when it did (with extraor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) for a little time only, and (as it were abhorring <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>dreadful a ſpectacle) ſoon hid its face again under a thick cloud.</p>
+            <p>The Sea ran much higher than it was wont to do, and by its <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>traordi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y roaring, and in ſome places over-flowing its banks, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ded not a little to our conſtern<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; the Land every where <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with Thieves, inſomuch, that till by the extraordinary <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken by the magiſtrates and officers ſeveral executions was <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon ſuch as were apprehended in the fact, no perſon was <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abroad without danger of his life, whilſt the fire by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prodigious over-flowing of the mountain threatned to take poſſeſſion of them all.</p>
+            <p>On Friday the 15th, the ſtream of fiery matter which deſtroy<g ref="char:EOLhyphen"/>ed the lower part of St. <hi>Giovanni di Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lermo,</hi> divided it ſelf into two parts, one of its branches taking its way toward <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſterbianco,</hi>
+               <pb n="11" facs="tcp:174252:6"/>the other threatning the City of <hi>Catania,</hi> but this laſt was obſer<g ref="char:EOLhyphen"/>ved to move with more ſlowneſs than before, having in twenty four hours time <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>carcely gained one mile.</p>
+            <p>On the 30th being monday, the to<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s being ſtill ſeen to draw nearer and nearer unto this City, the Senate &amp; <hi>monſegu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Cam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uchi,</hi> the Biſhop of this place, followed by all the Clergy, Secular and Regular, and an infinite number of people went in a ſolemn pro<g ref="char:EOLhyphen"/>ceſſion out of this City to <hi>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nte di St. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phia,</hi> carrying out with greateſt devotion thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> choi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icts, and upon a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Altar e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected in view of the mountain, expoſed them, where they celebrated maſs, and uſed the exorciſmes accuſtomed upon ſuch extraordina<g ref="char:EOLhyphen"/>ry o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, all which time the mountain ceaſed ntr as before with exceſſive roaring to throw up its ſmoak and flame, with extraordinary violence, and abundance of great ſtones which we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e carried through the Air, ſome of them falling within their view though at ten miles diſtance from the eruption, the aſhes which proceeded from thence were ſcattered in great abundance, aſwell on this City as on the Country ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acent, every where i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Fields with Cinders, and the heat of the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id Aſhes deſtroyed the gra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, which obliged the people to drive away their Cattle to a futher diſtance, which would otherwiſe have periſhed for wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of food.</p>
+            <p>There ſtreams of ruine daily crept nearer and nearer to this City, but b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unevea and irregular motions, according as it was more or leſs ſupplied from its foundation. But on Wedne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>day the 20th we perceived that that branch of it which ſeemed moſt to threaten this City from <hi>St. Gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vanni de Gale<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mo</hi> wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly extinguiſht, and that which bent its courſe towards <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ran but ſlowly, and gave us ſome hopes that its fury was alſo near ſpent; but the other torrent which had before over-thrown <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terbianco</hi> continued its motion with as much violence as ever, be<g ref="char:EOLhyphen"/>ing in breadth above a muſquet-ſhot over, but in p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obability <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould not eaſily over-flow to the Weſt-wards, which was defend<g ref="char:EOLhyphen"/>ed by its rocky ſcituation: Another branch which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an by <hi>S<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Pietro</hi> was obſerved to be much larger than the reſt, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eam more quick and active, but meeting with ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pp<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> its way, it made ſome ſtop, only ſending out a R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>let towards the Eaſt-ward about three of four yards wide of its mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:174252:7"/>active matter, which directed its courſe toward a ſmall village about a furlong diſtant from its main ſtream; another branch threatned <hi>Campo R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> but bent its courſe Weſtwards to<g ref="char:EOLhyphen"/>wards the Farm of <hi>Valcorrente,</hi> where its fiery body was ſcattered <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to ſeveral deep and rocky places, without any conſiderable da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age.</p>
+            <p>About this time we had hopes that the violence of this erupti<g ref="char:EOLhyphen"/>on had been over, the mountain not throwing out its flames <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that violence as before, and its noiſe and roaring in a great <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ceaſed.</p>
+            <p>Thoſe who at neareſt diſtance took a view of the mountain, in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>med, that the top of it was falle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in; the mountain ſuppoſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> want near a mile of its former height, that the largeſt of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouths from whence theſe fiery ſtreams were vented, was about <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in compaſs, but the view of this dreadful inundation <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ied ſo much terror in it as they were not able to expreſs, from all theſe mouths were vomited Rivers of a thick and fiery ſub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce ſtone and mettals melted, whoſe depth was various, according to the ſeveral places it filled in its paſſage, in ſome places four, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers eight, twelve or fifteen yards and upwards, its breadth in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me places, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> miles, in others much more, its flame like that of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and its motion like that of Quick-ſilver, advancing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dina<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly very ſlowly, unleſs where it was provoked by the ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of a freſh torrent or ſome conſiderable deſcent; whereſo<g ref="char:EOLhyphen"/>ever it paſſed it left large heaps of its congealed matter, with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich it covered and burnt the earth, melting the walls of Caſtles and Houſes, throwing down and conſuming all before it, nothing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing yet found able to reſiſt its force, nor any thing able to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ench burning, water being obſerved rather to add to its fury, whereſoever it had paſſed, it had left its dreadful marks behind it, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>velling ſome Hills and raiſing others, ſo much changing the Sci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ations, that not the leaſt trace of any place or Town remains, nothing being to be ſeen but confuſed heaps of ragged Stones, which yielding a noiſome fume, ſtrike terror and aſtoniſhment into all that behold it.</p>
+            <pb n="13" facs="tcp:174252:7"/>
+            <p>On Friday the 22th the mountain roared with much loudneſs, and threw up from it's mouths a vaſt quantity of matter, which formed two large hills higher and larger than that of <hi>Monpilori,</hi> with a large bank of the ſame matter to the Eaſtward, ſending down a violent ſtream of its liquid matter towards <hi>Malpaſſo,</hi> much enlarging the former Current, and paſſing thence to <hi>Campo Rotundo,</hi> and <hi>Santo Pietro</hi> compleated the Ruins of thoſe Towns, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iving furiouſly towards <hi>M<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>ianco,</hi> the other ſtream by <hi>Santo <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>nni de <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>o</hi> being wholy diverted and extinguiſh't?</p>
+            <p>From this time till the 25th the mountain continued ſilent, but then it burſt out again with more force than ever before, its noiſe much louder, like Pele<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Ordnance, and ſo forcible and laſting as for 24 hours it cauſed a ſhaking and trembling in our buildings, the Aire ſo filled with ſmoake and Aſhes as darkned the face of the Skye?</p>
+            <p>The Birds and Fowle about this time, either through want of food or illneſs of Aire which was corrupted with the noiſome ſmells ariſing from theſe burnings, were obſerved to lye dead in all places?</p>
+            <p>On the 28th the grand Current was advanced neer the City as far as the old <hi>Capucins</hi> which ſtruck ſo great a terror into the people that moſt of them left the City, only ſome Officers re<g ref="char:EOLhyphen"/>maining with ſuch perſons as were under their command, who have ſecured and ſent away the magazin, and all the Artillery from the Caſtle.</p>
+         </div>
+         <div type="account">
+            <head>A later Relation from <hi>Catania</hi> bearing date the 27th of <hi>April,</hi> gives us this farther accompt, viz.</head>
+            <p>The dreadfull Inundation from <hi>monte-Gibello</hi> having deſtroyed many Caſtles and Towns: with an infinite loſs and utter ruine to the Inhabitants, arrived lately with a renewed force at <hi>Moſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbianc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which it has wholly ruin'd, from thence paſſing unto <hi>Albanelli</hi> in 4 dayes ſpace deſtroyed all the Gardens and Vineyards, with ſixty three thouſand Vines?</p>
+            <pb n="14" facs="tcp:174252:8"/>
+            <p>On Wedneſday <hi>April</hi> the 16th with an Impetuous fiery Torrent it came towards St. <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iell,</hi> where all the remainder of the Inha<g ref="char:EOLhyphen"/>bitants of this City we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Spectators of it, which reſembled a Ri<g ref="char:EOLhyphen"/>vers of melted and burning braſs about 30 ells wide, running with <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>neſs to the Arch of <hi>Marcus Marcellus</hi> a famous piece of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and paſſing under it ruined about 6 ells of it, which was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> breadth of the Current in that place, from thence it ran to <hi>Mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nna d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Monſerrato</hi> which is wholly deſtroyed, then falling <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <hi>M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nna d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Gratie</hi> it entred in at one Gate and paſſed <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>gh another, without any conſiderable hurt, and running <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ough the Gate <hi>Dell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ma</hi> filled all the <hi>Plain Di Schiara <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it was above 6 ells deep, then taking its way towards the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wark on the Sea ſide, under the Caſtle of this City, it ran <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, two ells deep into the Sea, in which (to the great wonder of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſaw it) it has made it's progreſs a mile in length, and as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in breadth, and is drawing towards the gate of the Channel, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch gives us great apprehenſions leaſt it may that way invade <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e City it ſelf; Nor is there leſs danger on the ſide <hi>Deltindaro</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here there runs a great Torrent of the ſame active matter, which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>awes near, and ſeems to threaten the Walls, and is in that place <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a mile in bredth, having overflowed and deſtroyed all the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the gate <hi>Della Decima</hi> as farr as <hi>Madonna delli <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+         <div type="list">
+            <head>Liſt of the moſt conſiderable Towns and place Ruined and deſtroyed by the dreadfull Earth<g ref="char:EOLhyphen"/>quake and Eruptions?</head>
+            <p>The Towns of <hi>Padaro</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re Caſtagne,</hi> the greateſt part deſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y<g ref="char:EOLhyphen"/>ed by the Earthquake?</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Towns of <hi>Le Guard<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Malpaſſo, Campo R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, La <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> St. <hi>Pietro, M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſterbianco, Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pileri, L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eiata, Fali<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b, Pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> wholly overflowed conſumed and loſt in this fiery Inunda<g ref="char:EOLhyphen"/>tion, with all the lands belonging to them, no footſteps of them remaining?</p>
+            <pb n="15" facs="tcp:174252:8"/>
+            <p>The Towsn of <hi>Moſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia,</hi> and St. <hi>Gio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>onni de Galer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uined <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n part.</p>
+            <p>The large Gardens and Vineyards of <hi>Albanelli,</hi> over-flown and deſtroyed</p>
+            <p>The famous piece of Antiquity of <hi>Marcus Marcellus</hi> much ruined.</p>
+            <p>
+               <hi>Madonna d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Monſerrato</hi> deſtroyed, beſides many Caſtles, Farms and other place, which have run the ſame fortune, whoſe names were for brevity paſt over.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
